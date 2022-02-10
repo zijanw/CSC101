@@ -1,1 +1,1 @@
-# CSC101
+# CSC101 Group Project
